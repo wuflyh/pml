@@ -1,4 +1,4 @@
 pml
 ===
 
-practical machine learning project
+Practical Machine Learning Course
